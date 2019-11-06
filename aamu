@@ -1,0 +1,19 @@
+<html>
+<head>
+</head>
+<body>
+<centre><h1><marquee>WELCOME TO MY WEBPAGE</centre></h1></marquee>
+<center><img width="200" height="200" src="KeralaPSC.png"/></center>
+<div style="background-color:pink">
+Kerala PSC Recruitment 2019, Jobs: Apply online for the below mentioned Kerala PSC Job vacancies updated on 24 July 2019 through Freshersworld,
+ candidates can also refer official website keralapsc.gov.in for more detail informations for Kerala Public Service Commission (KPSC) Recruitment
+ for Assistant, LDC, Lecturer & multiple Posts. Get latest updates on Kerala PSC jobs.
+ 
+</div>
+<tr><marquee direction="right"><td></br><a href="frst user.html">New user one time registration</a></td></marquee></tr>
+<tr>
+<center><td></br><a href="second user.html">Login</a></td></tr></center>
+
+
+</body>
+</html>
